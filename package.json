@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "build-js": "node build_js.js"
+  },
+  "dependencies": {
+    "@zoralabs/coins-sdk": "^latest",
+    "viem": "^latest"
+  },
+  "devDependencies": {
+    "esbuild": "^latest"
+  }
+}
